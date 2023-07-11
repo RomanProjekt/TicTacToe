@@ -42,7 +42,7 @@ public class DatabaseManager {
     public Connection getConn() {
         Connection retVal = null;
         try {
-            retVal = ds.getConnection();  
+            retVal = ds.getConnection();   
 
         } catch (SQLException ex) {
             Logger.getLogger(DatabaseManager.class.getName()).log(Level.ALL, null, ex);
