@@ -7,4 +7,5 @@ Game: TicTacToe mit Swing, Java
 
 - Projektname: TicTacToe
 - Verwendete Technologien: Frontend-Desktop:  Swing, GameLogik: Java
+- IDE: Netbeans 18
 - Klassen: PlayField, GameLogic, Player, Start
